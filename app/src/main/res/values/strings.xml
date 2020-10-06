@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">TodoList</string>
+
+    <string name="priority_string">Priorité</string>
+    <string name="high_priority">Haute</string>
+    <string name="medium_priority">Moyenne</string>
+    <string name="low_priority">Basse</string>
+
+    <string name="add_button">Ajouter</string>
+
+    <string name="default_task_text">Nom de la tâche</string>
+
+    <string name="action_add_task">Ajout de tâche.</string>
+</resources>
